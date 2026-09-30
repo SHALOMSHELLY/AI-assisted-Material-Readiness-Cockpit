@@ -7,15 +7,13 @@ Users upload one Excel workbook containing `Orders`, `BOM`, `Inventory`, `Incomi
 ## Requirements
 
 - Python 3.12
-- Windows, macOS, or Linux
+- Windows 11 for interactive installation and Streamlit use
 - Internet access only when installing packages or explicitly using the AI feature
 - An OpenRouter API key only for optional AI generation
 
-The deterministic application and all automated tests run without an API key.
+The deterministic application and all automated tests run without an API key. GitHub Actions separately checks the automated test suite on Ubuntu; interactive macOS use has not been validated.
 
 ## Install
-
-### Windows PowerShell
 
 ```powershell
 py -3.12 -m venv .venv
@@ -23,29 +21,12 @@ py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-### macOS or Linux
-
-```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-```
-
 `requirements.txt` pins the tested direct dependencies. `requirements-lock.txt` records the complete package set used for final verification.
 
 ## Run
 
-Windows:
-
 ```powershell
 .\.venv\Scripts\python.exe -m streamlit run app.py
-```
-
-macOS or Linux:
-
-```bash
-python -m streamlit run app.py
 ```
 
 Open the local Streamlit address shown in the terminal. Upload a valid workbook, choose an analysis date, validate, and run deterministic analysis.
@@ -88,21 +69,13 @@ For both interface and command-line use, the real key:
 
 ## Test
 
-Windows:
-
 ```powershell
 .\.venv\Scripts\python.exe -m pytest -q -m "" -p no:cacheprovider
 ```
 
-macOS or Linux:
-
-```bash
-python -m pytest -q -m "" -p no:cacheprovider
-```
-
 The complete local suite currently passes 288 tests. It covers workbook validation, BOM demand, inventory and PO allocation, exact PO schedule-line matching, order-status precedence, exceptions, priorities, bounded AI payloads, LLM schema/evidence safety, Streamlit behavior, formal Oracle comparisons, and performance guards. Automated tests never make a paid LLM call.
 
-GitHub Actions runs the same complete suite on Ubuntu with Python 3.12.
+GitHub Actions runs the same complete automated suite on Ubuntu with Python 3.12. This CI check validates the test suite in a clean Linux environment; it is not a hosted Streamlit deployment or a claim of manual Linux/macOS interface testing.
 
 ## Synthetic formal dataset
 
