@@ -18,8 +18,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "623 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L01.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L01.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L01.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L01.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 222,
@@ -46,8 +46,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "608 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L02.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L02.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L02.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L02.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 234,
@@ -75,8 +75,8 @@
         "ZERO_SCHEDULE_BUFFER"
       ],
       "Expected Result Summary": "648 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L03.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L03.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L03.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L03.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 246,
@@ -103,8 +103,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "286 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L04.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L04.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L04.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L04.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 258,
@@ -131,8 +131,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "764 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L05.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L05.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L05.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L05.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 270,
@@ -159,8 +159,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "731 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L06.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L06.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L06.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L06.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 282,
@@ -188,8 +188,8 @@
         "ZERO_SCHEDULE_BUFFER"
       ],
       "Expected Result Summary": "885 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L07.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L07.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L07.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L07.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 294,
@@ -216,8 +216,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "860 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L08.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L08.json",
+      "Workbook Path": "data/expanded_scenarios/generated/large/L08.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/L08.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 306,
@@ -244,8 +244,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "116 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M01.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M01.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M01.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M01.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 62,
@@ -272,8 +272,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "128 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M02.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M02.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M02.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M02.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 66,
@@ -301,8 +301,8 @@
         "ZERO_SCHEDULE_BUFFER"
       ],
       "Expected Result Summary": "195 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M03.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M03.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M03.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M03.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 70,
@@ -329,8 +329,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "166 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M04.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M04.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M04.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M04.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 74,
@@ -357,8 +357,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "191 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M05.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M05.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M05.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M05.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 78,
@@ -385,8 +385,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "170 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M06.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M06.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M06.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M06.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 82,
@@ -414,8 +414,8 @@
         "ZERO_SCHEDULE_BUFFER"
       ],
       "Expected Result Summary": "212 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M07.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M07.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M07.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M07.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 86,
@@ -442,8 +442,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "230 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M08.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M08.json",
+      "Workbook Path": "data/expanded_scenarios/generated/medium/M08.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/M08.json",
       "Recommended for Demo": true,
       "Estimated Row Counts": {
         "Orders": 90,
@@ -470,8 +470,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "28 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S01.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S01.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S01.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S01.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 13,
@@ -497,8 +497,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "28 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S02.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S02.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S02.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S02.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 14,
@@ -525,8 +525,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "41 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S03.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S03.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S03.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S03.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 15,
@@ -554,8 +554,8 @@
         "ZERO_SCHEDULE_BUFFER"
       ],
       "Expected Result Summary": "34 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S04.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S04.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S04.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S04.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 16,
@@ -581,8 +581,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "25 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S05.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S05.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S05.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S05.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 12,
@@ -609,8 +609,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "41 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S06.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S06.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S06.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S06.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 13,
@@ -637,8 +637,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "35 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S07.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S07.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S07.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S07.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 14,
@@ -666,8 +666,8 @@
         "ZERO_SCHEDULE_BUFFER"
       ],
       "Expected Result Summary": "38 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S08.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S08.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S08.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S08.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 15,
@@ -694,8 +694,8 @@
         "UNSCHEDULED_ORDER"
       ],
       "Expected Result Summary": "37 exceptions; PASS",
-      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S09.xlsx",
-      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S09.json",
+      "Workbook Path": "data/expanded_scenarios/generated/small/S09.xlsx",
+      "Oracle Path": "data/expanded_scenarios/expected/scenarios/S09.json",
       "Recommended for Demo": false,
       "Estimated Row Counts": {
         "Orders": 16,

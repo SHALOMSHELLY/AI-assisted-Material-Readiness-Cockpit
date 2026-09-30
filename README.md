@@ -50,17 +50,31 @@ python -m streamlit run app.py
 
 Open the local Streamlit address shown in the terminal. Upload a valid workbook, choose an analysis date, validate, and run deterministic analysis.
 
-## API key handling
+## API key setup and handling
 
-The AI Planning Copilot displays a password-style **OpenRouter API Key** field. The user enters the key at runtime. The key:
+### Streamlit interface (recommended)
 
-- stays in the current Streamlit session;
+No `.env` file is needed for normal interactive use. After running the app, open **AI Planning Copilot**, paste an OpenRouter key into the password-style **OpenRouter API Key** field, and click **Generate Advisory Action Plan**. The field is part of the Streamlit interface; the key remains only in the current Streamlit session and is used only when generation is explicitly requested.
+
+### Command-line evaluation (optional, may incur API cost)
+
+The command-line evaluation runner can read the key from a local `.env` file. Use this only when intentionally making live evaluation calls:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+Then replace the placeholder in `.env` with a valid key. The `.env` file is ignored by Git and must never be committed. Existing retained evaluation reports, status commands, ratings, and report generation do not require another paid call.
+
+### Automated tests
+
+The complete automated test suite does not need a real API key and does not make paid LLM calls. API-related tests inject a fake key and mock the HTTP response.
+
+For both interface and command-line use, the real key:
+
 - is passed only in the OpenRouter Authorization header;
-- is not written to disk;
 - is not included in the AI payload, exports, cache key, evaluation ledger, or error messages;
 - is not required for deterministic analysis.
-
-The optional `.env.example` exists for command-line evaluation tools. Copy it to `.env` only if those tools are needed. `.env` is ignored by Git and must never be committed.
 
 ## Cockpit views
 

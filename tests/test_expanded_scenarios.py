@@ -59,6 +59,10 @@ def test_catalog_and_oracles_are_complete_and_synthetic():
     assert len(catalog["scenarios"]) == 25
     assert sum(bool(item["Recommended for Demo"]) for item in catalog["scenarios"]) == 1
     for item in catalog["scenarios"]:
+        assert "\\" not in item["Workbook Path"]
+        assert "\\" not in item["Oracle Path"]
+        assert not Path(item["Workbook Path"]).is_absolute()
+        assert not Path(item["Oracle Path"]).is_absolute()
         oracle = json.loads((ROOT / item["Oracle Path"]).read_text(encoding="utf-8"))
         assert oracle["Expected Validation Outcome"] == "PASS"
         assert "Expected Shortage Rows" in oracle
