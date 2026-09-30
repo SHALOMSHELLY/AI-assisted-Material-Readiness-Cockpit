@@ -1,0 +1,2014 @@
+{
+  "review_method": "AI-assisted review; not independent human review",
+  "reviewer": "Codex (AI-assisted review)",
+  "narrative_ratings": [
+    {
+      "result_key": "L01|SOA0170200|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170104|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170056|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170084|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180221|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180074|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180118|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190102|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190221|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190141|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190085|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200025|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200018|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200249|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200185|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210219|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210152|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210240|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210096|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220185|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220278|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220043|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220130|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230121|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230066|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230282|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230289|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240014|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240094|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240216|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090038|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090032|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090017|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100035|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100063|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100057|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110013|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110017|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110029|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120054|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120024|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120043|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130041|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130026|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130065|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130061|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140016|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140058|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140070|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140029|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150036|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150052|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150027|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150054|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170053|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170037|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170089|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170018|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000013|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000007|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000008|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000009|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010005|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010008|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010002|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020010|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020015|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020011|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030008|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030012|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030002|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030015|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040005|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040006|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040007|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040009|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050013|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050002|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050006|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060002|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060009|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060013|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060006|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070005|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070008|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070002|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070014|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080001|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080014|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080003|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080006|10",
+      "rating": "Supported",
+      "reason": "The narrative passed the strict schema, priority, rule, numeric-contradiction, execution-claim, and missing-information checks against the deterministic fact package.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    }
+  ],
+  "action_ratings": [
+    {
+      "result_key": "L01|SOA0170056|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170084|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170084|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170104|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170104|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L01|SOA0170200|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180074|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180118|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L02|SOA0180221|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190085|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190085|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190102|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190141|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190141|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190141|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L03|SOA0190221|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200018|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200018|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200025|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200185|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L04|SOA0200249|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210096|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210096|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210152|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210219|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210219|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L05|SOA0210240|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220043|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220043|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220130|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220130|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220185|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L06|SOA0220278|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230066|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230066|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230121|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230121|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230282|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L07|SOA0230289|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240014|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240014|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240094|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240216|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240216|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "L08|SOA0240216|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090017|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090017|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090032|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090032|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M01|SOA0090038|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100001|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100035|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100035|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100035|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100057|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M02|SOA0100063|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110013|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110013|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110017|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110017|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M03|SOA0110029|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120024|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120024|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120043|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120054|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M04|SOA0120054|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130026|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130041|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130061|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130061|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M05|SOA0130065|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140016|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140016|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140029|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140029|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140058|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M06|SOA0140070|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150027|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150027|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150036|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150036|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150036|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150052|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150052|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150052|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150054|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M07|SOA0150054|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170018|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170018|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170037|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170037|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170053|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170053|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "M08|SOA0170089|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000007|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000008|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000008|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000009|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000009|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000009|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S01|SOA0000013|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010002|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010002|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010005|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S02|SOA0010008|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020010|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020010|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020010|10",
+      "action_index": "3",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020011|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020011|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S03|SOA0020015|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030002|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030002|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030008|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030008|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030012|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S04|SOA0030015|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040005|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040006|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040007|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S05|SOA0040009|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050002|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050002|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050006|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050006|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S06|SOA0050013|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060002|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060002|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060006|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060009|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060009|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S07|SOA0060013|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070002|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070005|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070005|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070008|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070008|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S08|SOA0070014|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080001|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080001|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080003|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory escalation cites a verified planning exception and requests human production-planning review only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080006|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080014|10",
+      "action_index": "1",
+      "rating": "Supported",
+      "reason": "The advisory procurement escalation cites positive deterministic shortage evidence and requests human investigation only.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    },
+    {
+      "result_key": "S09|SOA0080014|10",
+      "action_index": "2",
+      "rating": "Supported",
+      "reason": "The request is supported by positive late/overdue supply evidence and asks for supplier confirmation or cross-order review rather than claiming an outcome.",
+      "reviewer": "Codex (AI-assisted review)",
+      "reviewed_at": "2026-09-30"
+    }
+  ],
+  "summary": {
+    "successful_results_reviewed": 100,
+    "narrative_rating_counts": {
+      "Supported": 100
+    },
+    "actions_reviewed": 162,
+    "action_rating_counts": {
+      "Supported": 162
+    }
+  }
+}

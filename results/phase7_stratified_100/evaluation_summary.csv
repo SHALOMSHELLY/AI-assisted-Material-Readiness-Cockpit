@@ -1,0 +1,59 @@
+﻿metric,value
+status,COMPLETE
+completion_policy,All planned results terminal (success or failure) and every successful recommendation rated
+terminal_result_count,100
+unattempted_result_count,0
+expected_recommendations_from_successes,162
+headline_metric,Unsupported Recommendation Rate
+total_recommendations,162
+rated_recommendations,162
+unrated_recommendations,0
+review_method,AI-assisted review
+reviewers,"[""Codex (AI-assisted review)""]"
+supported_count,162
+partially_supported_count,0
+unsupported_count,0
+contradictory_count,0
+supported_rate,100.0
+partially_supported_rate,0.0
+unsupported_recommendation_rate,0.0
+contradiction_rate,0.0
+non_fully_supported_rate,0.0
+high_risk_recommendation_rate,0.0
+scenario_count,25
+valid_workbook_count,25
+evaluation_scope,Fixed-seed stratified sample of four order-level fact packages per workbook; not an all-order correctness claim.
+eligible_order_count,2673
+eligible_exception_count,6958
+evaluated_order_count,100
+data_error_workbook_count,0
+data_error_workbooks,[]
+planned_call_count,100
+call_attempt_count,100
+successful_call_count,100
+failed_call_count,0
+safe_error_categories,{}
+input_tokens,674233
+output_tokens,101801
+total_tokens,776034
+average_total_tokens,7760.34
+min_response_time_seconds,4.104202599963173
+average_response_time_seconds,10.089177008995321
+max_response_time_seconds,23.190079299965873
+exact_cost_call_count,100
+exact_cost_total_usd,0.3505524
+estimated_cost_call_count,100
+estimated_cost_total_usd,0.43257480000000004
+average_exact_cost_per_success,0.003505524
+average_estimated_cost_per_success,0.004325748000000001
+average_exact_cost_per_valid_workbook,0.014022096
+average_estimated_cost_per_valid_workbook,0.017302992000000003
+average_exact_cost_per_all_scenarios,0.014022096
+average_estimated_cost_per_all_scenarios,0.017302992000000003
+workbooks,"{""L01.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0116972, ""estimated_cost_usd"": 0.021028400000000003}, ""L02.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0096904, ""estimated_cost_usd"": 0.017908000000000004}, ""L03.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.010904400000000002, ""estimated_cost_usd"": 0.019506}, ""L04.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0074512, ""estimated_cost_usd"": 0.0119824}, ""L05.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.009855599999999999, ""estimated_cost_usd"": 0.013388400000000002}, ""L06.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0152868, ""estimated_cost_usd"": 0.0193188}, ""L07.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0117336, ""estimated_cost_usd"": 0.0140376}, ""L08.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0185528, ""estimated_cost_usd"": 0.0208568}, ""M01.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0154416, ""estimated_cost_usd"": 0.0177456}, ""M02.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.013450799999999999, ""estimated_cost_usd"": 0.015754800000000003}, ""M03.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0174068, ""estimated_cost_usd"": 0.0197108}, ""M04.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0173444, ""estimated_cost_usd"": 0.019648400000000003}, ""M05.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0129896, ""estimated_cost_usd"": 0.015293600000000001}, ""M06.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0121332, ""estimated_cost_usd"": 0.0144372}, ""M07.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0211036, ""estimated_cost_usd"": 0.0234076}, ""M08.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0195352, ""estimated_cost_usd"": 0.021839200000000003}, ""S01.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0121732, ""estimated_cost_usd"": 0.0144772}, ""S02.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0134116, ""estimated_cost_usd"": 0.0157156}, ""S03.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.014363999999999998, ""estimated_cost_usd"": 0.016668}, ""S04.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.015972399999999998, ""estimated_cost_usd"": 0.018276399999999998}, ""S05.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.011309999999999999, ""estimated_cost_usd"": 0.013614}, ""S06.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0174044, ""estimated_cost_usd"": 0.0197084}, ""S07.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.011282, ""estimated_cost_usd"": 0.013586000000000003}, ""S08.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0140284, ""estimated_cost_usd"": 0.0163324}, ""S09.xlsx"": {""call_count"": 4, ""exact_cost_usd"": 0.0160292, ""estimated_cost_usd"": 0.0183332}}"
+model,openai/gpt-4.1-mini
+prompt_version,phase6-prompt-v15-python-canonical-actions
+schema_version,phase6-schema-v10-overdue-schedule-impact
+analysis_date,2026-09-25
+pricing_as_of,2026-09-24
+pricing_source,https://openrouter.ai/openai/gpt-4.1-mini

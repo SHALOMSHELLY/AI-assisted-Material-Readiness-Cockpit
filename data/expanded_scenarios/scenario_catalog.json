@@ -1,0 +1,709 @@
+{
+  "analysis_date": "2026-09-25",
+  "scenarios": [
+    {
+      "scenario_id": "L01",
+      "category": "large",
+      "Scenario ID": "L01",
+      "Size": "Large",
+      "Title": "Mixed Planning Day",
+      "Business Purpose": "Mixed Planning Day",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "623 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L01.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L01.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 222,
+        "BOM": 242,
+        "Inventory": 928,
+        "Incoming_PO": 425,
+        "Production_Orders": 198
+      }
+    },
+    {
+      "scenario_id": "L02",
+      "category": "large",
+      "Scenario ID": "L02",
+      "Size": "Large",
+      "Title": "Cancelled PO Exclusion",
+      "Business Purpose": "Cancelled PO Exclusion",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "608 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L02.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L02.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 234,
+        "BOM": 271,
+        "Inventory": 973,
+        "Incoming_PO": 460,
+        "Production_Orders": 208
+      }
+    },
+    {
+      "scenario_id": "L03",
+      "category": "large",
+      "Scenario ID": "L03",
+      "Size": "Large",
+      "Title": "Deleted PO Exclusion",
+      "Business Purpose": "Deleted PO Exclusion",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER",
+        "ZERO_SCHEDULE_BUFFER"
+      ],
+      "Expected Result Summary": "648 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L03.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L03.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 246,
+        "BOM": 271,
+        "Inventory": 1020,
+        "Incoming_PO": 495,
+        "Production_Orders": 218
+      }
+    },
+    {
+      "scenario_id": "L04",
+      "category": "large",
+      "Scenario ID": "L04",
+      "Size": "Large",
+      "Title": "Completed PO Exclusion",
+      "Business Purpose": "Completed PO Exclusion",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "286 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L04.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L04.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 258,
+        "BOM": 282,
+        "Inventory": 1066,
+        "Incoming_PO": 530,
+        "Production_Orders": 228
+      }
+    },
+    {
+      "scenario_id": "L05",
+      "category": "large",
+      "Scenario ID": "L05",
+      "Size": "Large",
+      "Title": "Non-Unrestricted Inventory Exclusion",
+      "Business Purpose": "Non-Unrestricted Inventory Exclusion",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "764 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L05.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L05.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 270,
+        "BOM": 334,
+        "Inventory": 1109,
+        "Incoming_PO": 565,
+        "Production_Orders": 238
+      }
+    },
+    {
+      "scenario_id": "L06",
+      "category": "large",
+      "Scenario ID": "L06",
+      "Size": "Large",
+      "Title": "BOM Effectivity",
+      "Business Purpose": "BOM Effectivity",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "731 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L06.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L06.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 282,
+        "BOM": 310,
+        "Inventory": 1156,
+        "Incoming_PO": 600,
+        "Production_Orders": 248
+      }
+    },
+    {
+      "scenario_id": "L07",
+      "category": "large",
+      "Scenario ID": "L07",
+      "Size": "Large",
+      "Title": "Multiple Storage Locations",
+      "Business Purpose": "Multiple Storage Locations",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER",
+        "ZERO_SCHEDULE_BUFFER"
+      ],
+      "Expected Result Summary": "885 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L07.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L07.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 294,
+        "BOM": 309,
+        "Inventory": 1203,
+        "Incoming_PO": 635,
+        "Production_Orders": 258
+      }
+    },
+    {
+      "scenario_id": "L08",
+      "category": "large",
+      "Scenario ID": "L08",
+      "Size": "Large",
+      "Title": "Large Portfolio Performance",
+      "Business Purpose": "Large Portfolio Performance",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "860 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\large\\L08.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\L08.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 306,
+        "BOM": 339,
+        "Inventory": 1247,
+        "Incoming_PO": 670,
+        "Production_Orders": 268
+      }
+    },
+    {
+      "scenario_id": "M01",
+      "category": "medium",
+      "Scenario ID": "M01",
+      "Size": "Medium",
+      "Title": "Multiple PO Schedule Lines",
+      "Business Purpose": "Multiple PO Schedule Lines",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "116 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M01.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M01.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 62,
+        "BOM": 96,
+        "Inventory": 252,
+        "Incoming_PO": 93,
+        "Production_Orders": 51
+      }
+    },
+    {
+      "scenario_id": "M02",
+      "category": "medium",
+      "Scenario ID": "M02",
+      "Size": "Medium",
+      "Title": "Partial Receipt",
+      "Business Purpose": "Partial Receipt",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "128 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M02.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M02.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 66,
+        "BOM": 108,
+        "Inventory": 268,
+        "Incoming_PO": 101,
+        "Production_Orders": 54
+      }
+    },
+    {
+      "scenario_id": "M03",
+      "category": "medium",
+      "Scenario ID": "M03",
+      "Size": "Medium",
+      "Title": "Production Sequence",
+      "Business Purpose": "Production Sequence",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER",
+        "ZERO_SCHEDULE_BUFFER"
+      ],
+      "Expected Result Summary": "195 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M03.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M03.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 70,
+        "BOM": 125,
+        "Inventory": 287,
+        "Incoming_PO": 109,
+        "Production_Orders": 57
+      }
+    },
+    {
+      "scenario_id": "M04",
+      "category": "medium",
+      "Scenario ID": "M04",
+      "Size": "Medium",
+      "Title": "Same-Day Tie Breaking",
+      "Business Purpose": "Same-Day Tie Breaking",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "166 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M04.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M04.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 74,
+        "BOM": 113,
+        "Inventory": 303,
+        "Incoming_PO": 117,
+        "Production_Orders": 60
+      }
+    },
+    {
+      "scenario_id": "M05",
+      "category": "medium",
+      "Scenario ID": "M05",
+      "Size": "Medium",
+      "Title": "Multi-Component Bottleneck",
+      "Business Purpose": "Multi-Component Bottleneck",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "191 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M05.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M05.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 78,
+        "BOM": 124,
+        "Inventory": 319,
+        "Incoming_PO": 125,
+        "Production_Orders": 63
+      }
+    },
+    {
+      "scenario_id": "M06",
+      "category": "medium",
+      "Scenario ID": "M06",
+      "Size": "Medium",
+      "Title": "One Material Affecting Multiple Orders",
+      "Business Purpose": "One Material Affecting Multiple Orders",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "170 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M06.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M06.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 82,
+        "BOM": 125,
+        "Inventory": 338,
+        "Incoming_PO": 133,
+        "Production_Orders": 66
+      }
+    },
+    {
+      "scenario_id": "M07",
+      "category": "medium",
+      "Scenario ID": "M07",
+      "Size": "Medium",
+      "Title": "Unscheduled Orders",
+      "Business Purpose": "Unscheduled Orders",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER",
+        "ZERO_SCHEDULE_BUFFER"
+      ],
+      "Expected Result Summary": "212 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M07.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M07.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 86,
+        "BOM": 132,
+        "Inventory": 354,
+        "Incoming_PO": 141,
+        "Production_Orders": 69
+      }
+    },
+    {
+      "scenario_id": "M08",
+      "category": "medium",
+      "Scenario ID": "M08",
+      "Size": "Medium",
+      "Title": "Mixed Planning Day",
+      "Business Purpose": "Mixed Planning Day",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "230 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\medium\\M08.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\M08.json",
+      "Recommended for Demo": true,
+      "Estimated Row Counts": {
+        "Orders": 90,
+        "BOM": 150,
+        "Inventory": 371,
+        "Incoming_PO": 149,
+        "Production_Orders": 72
+      }
+    },
+    {
+      "scenario_id": "S01",
+      "category": "small",
+      "Scenario ID": "S01",
+      "Size": "Small",
+      "Title": "Balanced Operations",
+      "Business Purpose": "Balanced Operations",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "28 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S01.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S01.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 13,
+        "BOM": 35,
+        "Inventory": 59,
+        "Incoming_PO": 15,
+        "Production_Orders": 11
+      }
+    },
+    {
+      "scenario_id": "S02",
+      "category": "small",
+      "Scenario ID": "S02",
+      "Size": "Small",
+      "Title": "No-Shortage Control",
+      "Business Purpose": "No-Shortage Control",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "28 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S02.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S02.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 14,
+        "BOM": 41,
+        "Inventory": 63,
+        "Incoming_PO": 16,
+        "Production_Orders": 12
+      }
+    },
+    {
+      "scenario_id": "S03",
+      "category": "small",
+      "Scenario ID": "S03",
+      "Size": "Small",
+      "Title": "Inventory Shortage",
+      "Business Purpose": "Inventory Shortage",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "41 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S03.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S03.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 15,
+        "BOM": 37,
+        "Inventory": 66,
+        "Incoming_PO": 17,
+        "Production_Orders": 13
+      }
+    },
+    {
+      "scenario_id": "S04",
+      "category": "small",
+      "Scenario ID": "S04",
+      "Size": "Small",
+      "Title": "Late Incoming Supply",
+      "Business Purpose": "Late Incoming Supply",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER",
+        "ZERO_SCHEDULE_BUFFER"
+      ],
+      "Expected Result Summary": "34 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S04.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S04.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 16,
+        "BOM": 35,
+        "Inventory": 69,
+        "Incoming_PO": 18,
+        "Production_Orders": 14
+      }
+    },
+    {
+      "scenario_id": "S05",
+      "category": "small",
+      "Scenario ID": "S05",
+      "Size": "Small",
+      "Title": "Overdue Purchase Orders",
+      "Business Purpose": "Overdue Purchase Orders",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "25 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S05.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S05.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 12,
+        "BOM": 42,
+        "Inventory": 72,
+        "Incoming_PO": 19,
+        "Production_Orders": 10
+      }
+    },
+    {
+      "scenario_id": "S06",
+      "category": "small",
+      "Scenario ID": "S06",
+      "Size": "Small",
+      "Title": "Shared Material Competition",
+      "Business Purpose": "Shared Material Competition",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "41 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S06.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S06.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 13,
+        "BOM": 32,
+        "Inventory": 56,
+        "Incoming_PO": 20,
+        "Production_Orders": 11
+      }
+    },
+    {
+      "scenario_id": "S07",
+      "category": "small",
+      "Scenario ID": "S07",
+      "Size": "Small",
+      "Title": "Safety Stock Boundary",
+      "Business Purpose": "Safety Stock Boundary",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "35 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S07.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S07.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 14,
+        "BOM": 35,
+        "Inventory": 59,
+        "Incoming_PO": 21,
+        "Production_Orders": 12
+      }
+    },
+    {
+      "scenario_id": "S08",
+      "category": "small",
+      "Scenario ID": "S08",
+      "Size": "Small",
+      "Title": "Multi-Plant Isolation",
+      "Business Purpose": "Multi-Plant Isolation",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER",
+        "ZERO_SCHEDULE_BUFFER"
+      ],
+      "Expected Result Summary": "38 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S08.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S08.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 15,
+        "BOM": 43,
+        "Inventory": 63,
+        "Incoming_PO": 14,
+        "Production_Orders": 13
+      }
+    },
+    {
+      "scenario_id": "S09",
+      "category": "small",
+      "Scenario ID": "S09",
+      "Size": "Small",
+      "Title": "Multi-Unit Isolation",
+      "Business Purpose": "Multi-Unit Isolation",
+      "Main Exception Types": [
+        "LATE_INCOMING_SUPPLY",
+        "MATERIAL_SHORTAGE",
+        "OVERDUE_INCOMING_PO",
+        "OVERDUE_INCOMING_SUPPLY",
+        "PLANNED_COMPLETION_AFTER_REQUESTED_DELIVERY",
+        "PRODUCTION_BACKLOG",
+        "UNSCHEDULED_ORDER"
+      ],
+      "Expected Result Summary": "37 exceptions; PASS",
+      "Workbook Path": "data\\expanded_scenarios\\generated\\small\\S09.xlsx",
+      "Oracle Path": "data\\expanded_scenarios\\expected\\scenarios\\S09.json",
+      "Recommended for Demo": false,
+      "Estimated Row Counts": {
+        "Orders": 16,
+        "BOM": 32,
+        "Inventory": 66,
+        "Incoming_PO": 15,
+        "Production_Orders": 14
+      }
+    }
+  ]
+}
