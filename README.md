@@ -4,6 +4,14 @@ A deterministic supply-chain planning cockpit for the fictional manufacturer **A
 
 Users upload one Excel workbook containing `Orders`, `BOM`, `Inventory`, `Incoming_PO`, and `Production_Orders`. Python validates and calculates BOM demand, usable inventory, incoming-supply allocation, shortages, exceptions, priorities, and responsible business functions. The optional AI Planning Copilot explains one verified order-level fact package and proposes review steps. It cannot recalculate the facts, send messages, create purchase orders, reschedule production, or modify ERP data.
 
+## Project documentation
+
+- [Product Documentation](docs/product_documentation.md): persona, inputs, outputs, architecture, target metrics, achieved metrics, limitations, and future path
+- [Data Explainer](data/README.md): synthetic workbook design, scenario structure, expected results, and regeneration
+- [Evaluation Explainer](results/README.md): retained evaluation artifacts, review method, reproduction, and interpretation limits
+- [Performance Report](docs/performance.md): deterministic runtime profiling and optimization results
+- [Demonstration Guide](docs/demo_guide.md): recommended demonstration workflow
+
 ## Requirements
 
 - Python 3.12
@@ -158,6 +166,9 @@ Never commit the private source ledger.
 - [LLM Safety](docs/llm_safety.md)
 - [LLM Evaluation](docs/llm_evaluation.md)
 - [Test Report](docs/test_report.md)
+- [Performance Report](docs/performance.md)
+- [Scenario Catalog](docs/scenario_catalog.md)
+- [Product Documentation](docs/product_documentation.md)
 
 ## Limits
 
