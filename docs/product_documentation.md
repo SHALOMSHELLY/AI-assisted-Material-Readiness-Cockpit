@@ -50,7 +50,7 @@ Python remains the source of truth for quantities, exceptions, and priorities. T
 | Automated test suite | All tests pass | 288/288 |
 | Formal AI calls completed | 100/100 | 100/100 |
 | Unsupported recommendation rate | 0% | 0% in AI-assisted evidence review |
-| Largest retained deterministic runtime | Under 3 seconds | 2.269 seconds for L08 |
+| L08 median runtime, largest retained scenario | Under 3 seconds | 2.269 seconds |
 | Exact cost for 100 formal calls | Record provider-reported cost | $0.35055240 |
 
 The 162 generated actions were all rated Supported in the recorded AI-assisted evidence review. This was not an independent human-only review and is not a universal correctness claim.
