@@ -65,8 +65,8 @@ The formal deterministic dataset contains 25 reproducible synthetic workbooks. T
 
 ## Current limitations
 
-The prototype has no live SAP connection, ERP write-back, authentication, database, persistent workflow, multi-tenancy, automatic purchasing, automatic rescheduling, or autonomous agent workflow. Workbook input represents a planning snapshot. Related supplier PO records provide context but do not prove direct order allocation or pegging.
+The current prototype analyzes uploaded planning snapshots rather than live ERP data. It does not yet provide read-only SAP or ERP integration, authentication, a database, or persistent review status. Related supplier PO records provide material-and-plant context but are not treated as direct order allocation or pegging.
 
 ## Future path
 
-The next priorities are a planner usability study, read-only ERP integration, and persistent review status. These steps should be evaluated before considering any operational automation.
+The next priorities are a planner usability study, read-only ERP integration, and persistent review status so the cockpit can fit more naturally into daily planning. Its intended operating model remains decision support with planner approval rather than autonomous execution.
