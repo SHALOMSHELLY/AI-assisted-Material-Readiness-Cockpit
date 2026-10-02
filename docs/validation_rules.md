@@ -4,7 +4,7 @@
 
 Validation outcomes are Data Error, Warning, or Ignored.
 
-A Data Error identifies the worksheet, Excel row, field, invalid value, error code, English message, and repair guidance. It blocks the affected calculation; structural workbook errors block the whole analysis. A Warning calls for attention but permits calculation under a documented safe default. Ignored means a row is outside the current analysis scope and is excluded with its count and reason reported. The UI must not expose Python stack traces.
+A Data Error identifies the worksheet, Excel row, field, invalid value, error code, English message, and repair guidance. Any Data Error blocks deterministic analysis for the uploaded workbook. A Warning calls for attention but permits calculation under a documented safe default. Ignored means a row is outside the current analysis scope and is excluded with its count and reason reported. The UI must not expose Python stack traces.
 
 ## Checks
 
@@ -38,7 +38,7 @@ A Data Error identifies the worksheet, Excel row, field, invalid value, error co
 28. `Snapshot_Date` is not later than `Analysis_Date`.
 29. PO flags accept Excel Boolean TRUE/FALSE or numeric 1/0; text `"TRUE"` and `"FALSE"` are Data Errors.
 30. Rows grouped by `BOM_ID + BOM_Usage + Alternative_BOM` have consistent parent product, plant, base quantity, and base unit.
-31. A participating positive-open PO row dated before `Analysis_Date` creates an Overdue Incoming Warning and is excluded from eligible supply.
+31. A participant positive-open PO row dated before `Analysis_Date` creates an Overdue Incoming Warning and is excluded from eligible supply.
 
 ## Non-blocking outcomes
 
@@ -50,7 +50,7 @@ A Data Error identifies the worksheet, Excel row, field, invalid value, error co
 
 ## BOM header consistency
 
-Every component row under the same `BOM_ID + BOM_Usage + Alternative_BOM` must share parent product, plant, base quantity, and base unit. A conflict produces `INCONSISTENT_BOM_HEADER` and blocks calculation.
+Every component row under the same `BOM_ID + BOM_Usage + Alternative_BOM` must share parent product, plant, base quantity, and base unit. A conflict produces `INCONSISTENT_BOM_HEADERT` and blocks calculation.
 
 ## Demand relationship scope
 
