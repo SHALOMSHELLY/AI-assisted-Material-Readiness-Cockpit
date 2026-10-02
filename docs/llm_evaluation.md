@@ -2,7 +2,7 @@
 
 ## Scope
 
-The current formal evaluation uses a fixed-seed stratified sample of four order-level fact packages from each of the 25 synthetic workbooks, for 100 unique selections. This is broader than the earlier one-order-per-workbook run, but it is still a sample rather than an all-order correctness claim. Pending Scheduling is excluded because it has no verified production requirement.
+The current formal evaluation uses a fixed-seed stratified sample of four order-level fact packages from each of the 25 synthetic workbooks, for 100 unique selections. This is broader than the earlier one-order-per-workbook run, but it is still a sample rather than an all-order correctness claim. The Streamlit AI selector excludes Pending Scheduling orders because they have no verified production requirement. However, the retained formal evaluation includes 19 bounded unscheduled-order payloads to test scheduling-exception explanations and safeguards.
 
 The evaluator uses the same bounded order-level payload builder as the Streamlit UI. A payload contains at most 15 affected-material rows and 10 relevant PO rows, with explicit truncation counters. The ledger records the structured input, raw and parsed output, local schema/evidence validation, tokens, latency, model, prompt/schema versions, and exact or estimated cost.
 
@@ -16,7 +16,7 @@ Before live calls, `scripts/audit_phase7_preflight.py` rebuilds all 100 payloads
 - retention of the original paid-call source fingerprint and the current public-code fingerprint;
 - exact payload equivalence when compatibility mode is used for UI, authentication, or report-only changes.
 
-The public-release compatibility audit passes 100/100 exact rebuilds with no cross-order leakage. It reports the original paid-call source fingerprint separately from the current public-code fingerprint instead of pretending the paid calls were rerun. Its result is stored in `results/phase7_stratified_100/preflight_audit.json`.
+The public-release preflight integrity audit passes 100/100 exact rebuilds with no cross-order leakage. It reports the original paid-call source fingerprint separately from the current public-code fingerprint instead of pretending the paid calls were rerun. Its result is stored in `results/phase7_stratified_100/preflight_audit.json`.
 
 ## Current real evaluation
 
