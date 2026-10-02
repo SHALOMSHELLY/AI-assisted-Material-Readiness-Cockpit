@@ -6,7 +6,7 @@ P0 represents a validation Data Error. Validation failure blocks shortage calcul
 
 | Priority | Rule ID | Condition | Meaning |
 |---|---|---|---|
-| Data Error | P0 | Missing data, unit mismatch, failed relationship, or rule conflict prevents reliable calculation | Stop the affected calculation and request data correction |
+| Data Error | P0 | Missing data, unit mismatch, failed relationship, or rule conflict prevents reliable calculation | Block deterministic analysis for the uploaded workbook and request data correction |
 | Critical | P1 | `Shortage > 0` and `Days Until Planned Start <= 2` | Shortage exists and production starts within two days or is overdue |
 | High | P2 | `Shortage > 0` and `3 <= Days Until Planned Start <= 7` | Shortage exists and production starts in 3–7 days |
 | Medium | P3A | `Shortage > 0` and `Days Until Planned Start > 7` | Shortage exists and production starts in more than 7 days |
